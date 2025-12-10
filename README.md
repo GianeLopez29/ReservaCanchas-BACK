@@ -64,7 +64,7 @@ npm start
 3. Deploy automático
 
 ### Autoría
-Estudiante : *Gianella Lopez*
-Institucion: *UTN - Universidad Tecnológica Nacional*
-Titulo: *Diplomatura en Desarrollo Web Full Stack*
-*Proyecto Final Integrador*
+   - `ESTUDIANTE`: *Gianella Lopez*
+   - `INSTITUCION`: *UTN - Universidad Tecnológica Nacional*
+   - `TITULO`: *Diplomatura en Desarrollo Web Full Stack*
+   - *Proyecto Final Integrador*
