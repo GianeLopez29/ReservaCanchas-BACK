@@ -62,3 +62,9 @@ npm start
 1. Conectar repositorio
 2. Configurar variables de entorno
 3. Deploy automático
+
+### Autoría
+Estudiante : *Gianella Lopez*
+Institucion: *UTN - Universidad Tecnológica Nacional*
+Titulo: *Diplomatura en Desarrollo Web Full Stack*
+*Proyecto Final Integrador*
